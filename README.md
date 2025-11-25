@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DarlingDivineDead&style=plastic&color=313038&label=^人^" /> </br>
+
+
 <p align="centre">
 <img width="1300" height="150" alt="IMG_8571" src="https://github.com/user-attachments/assets/555bad53-7854-4f7d-9695-103aafbf9743" />
 
